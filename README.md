@@ -6,4 +6,4 @@ https://github.com/sganz/analogclock
 
 Demo:
 
-https://lbarjak.github.io/analogclock/
+https://analogclock-lbarjak.netlify.app/
